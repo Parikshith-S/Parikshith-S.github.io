@@ -2,7 +2,7 @@
 
 Task given by The Sparks Foundation
 
-Deployed Website - https://parikshith-s.github.io/
+Deployed Website - https://parikshith-s.github.io/payment-gateway-integration/
 
 A Payment-Gateway-Integration made with Razorpay payment system.
 
