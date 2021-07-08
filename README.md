@@ -1,7 +1,7 @@
 # Payment Gateway Integration
 Task given by The Sparks Foundation
 
-Deployed Website - https://parikshith-s.github.io/payment-gateway-integration/
+Deployed Website - https://bit.ly/36k1Y6U
 
 A Payment-Gateway-Integration made with Razorpay payment system.
 
